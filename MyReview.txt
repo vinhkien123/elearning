@@ -1,0 +1,5 @@
+- Tài khoản Học Viên : seaways- pass : seaways( dùng test vô đc trang quản trị hay k )
+
+- Tài Khoản Admin : khaife34 - pass : 321321
+
+- Link vô trang quản trị : http://localhost:3000/admin/quanlynguoidung
